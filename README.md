@@ -3,6 +3,7 @@
 Go to project root directory
 
 Using maven: mvn spring-boot:run
+
 Using java: java -jar target/books-catalog-service-0.0.1-SNAPSHOT.jar
 
 # Hit API
